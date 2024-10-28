@@ -25,8 +25,8 @@ bin/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-private.key
-public.key
+./src/main/resources/private.key
+./src/main/resources/public.key
 
 ### NetBeans ###
 /nbproject/private/
