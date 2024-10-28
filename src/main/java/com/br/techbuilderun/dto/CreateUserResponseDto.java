@@ -1,4 +1,4 @@
 package com.br.techbuilderun.dto;
 
-public record CreateUserRequestDto(String username, String password) {
+public record CreateUserResponseDto(String username, String password) {
 }
